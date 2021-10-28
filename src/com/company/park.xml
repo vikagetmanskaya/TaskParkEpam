@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<park>
+    <name>Парк имени Янки Купалы</name>
+    <height>7500</height>
+    <kol_vo>4</kol_vo>
+    <plant>
+        <name>Дуб</name>
+        <type>Дерево</type>
+        <height>4000</height>
+    </plant>
+    <plant>
+        <name>Берёза</name>
+        <type>Дерево</type>
+        <height>3000</height>
+    </plant>
+    <plant>
+        <name>Боярышник</name>
+        <type>Кустарник</type>
+        <height>300</height>
+    </plant>
+    <plant>
+        <name>Сирень</name>
+        <type>Кустарник</type>
+        <height>200</height>
+    </plant>
+</park>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<root>
+    <plant><name>Дуб</name><type>Дерево</type><height>4000</height><index>1</index></plant>
+    <plant><name>Берёза</name><type>Дерево</type><height>3000</height><index>2</index></plant>
+    <plant><name>Магнолия</name><type>Дерево</type><height>1500</height><index>3</index></plant>
+    <plant><name>Осина</name><type>Дерево</type><height>3500</height><index>4</index></plant>
+    <plant><name>Боярышник</name><type>Кустарник</type><height>300</height><index>1</index></plant>
+    <plant><name>Сирень</name><type>Кустарник</type><height>200</height><index>2</index></plant>
+    <plant><name>Гортензия</name><type>Кустарник</type><height>150</height><index>3</index></plant>
+    <plant><name>Калина</name><type>Кустарник</type><height>250</height><index>4</index></plant>
+</root>
